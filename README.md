@@ -35,3 +35,12 @@ This code is for a simple interactive quiz application using HTML, CSS, and Java
      - **Retry and Show Answer** buttons**: After submitting, these buttons allow users to either retry the quiz or view the correct answers.
 
 This setup provides a basic, user-friendly quiz interface that allows users to answer questions, see their score, and retry or review correct answers.
+
+
+
+### This JavaScript code achieves the intended interactive quiz behavior:
+
+Questions and Options are displayed and shuffled.
+Score Calculation and Result Display are managed after all questions.
+Retry and Show Answers functions allow the user to review the quiz after completing it.
+This will work seamlessly with the HTML structure provided.
